@@ -1,5 +1,6 @@
 # JupyterLite Demo
 
+[![Build and Deploy](https://github.com/bdunnette/jupyterlite-demo-uv/actions/workflows/deploy.yml/badge.svg)](https://github.com/bdunnette/jupyterlite-demo-uv/actions/workflows/deploy.yml) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/bdunnette/jupyterlite-demo-uv/main.svg)](https://results.pre-commit.ci/latest/github/bdunnette/jupyterlite-demo-uv/main)
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
@@ -30,8 +31,6 @@ For more info, keep an eye on the JupyterLite documentation:
 
 This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
 optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
+[`pyproject.toml` file](pyproject.toml) for a list of all the dependencies provided.
 
 For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
