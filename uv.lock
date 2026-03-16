@@ -877,11 +877,11 @@ wheels = [
 
 [[package]]
 name = "jupyterlab-language-pack-zh-cn"
-version = "4.5.post1"
+version = "4.5.post2"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/8f/40/ede7fac90c71947cdb4c636ee2832e79afb593ad357699be0982c2211fd8/jupyterlab_language_pack_zh_cn-4.5.post1.tar.gz", hash = "sha256:7f3d3ad300b48f9faf306d4ffa883e3a4b39ddcb52c5a1dd9f7be840f9d54dd1", size = 154670, upload-time = "2026-01-09T19:05:33.647Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/b2/99/293446ff32d6c3e944a471d73e99f5196552076dddc9a89b2e2bd6b79e26/jupyterlab_language_pack_zh_cn-4.5.post2.tar.gz", hash = "sha256:42e4133e70ebe9935955d06c10886afebe0c06b4870b146b228298c032f15b11", size = 154874, upload-time = "2026-03-11T08:26:32.024Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7d/76/e661aec952e93eac19123064edf0e3ed13e7c97c993193202a9fed704d96/jupyterlab_language_pack_zh_cn-4.5.post1-py2.py3-none-any.whl", hash = "sha256:b91dec6d5a1aeee2679a75269b73db9bdbc8313489810f8671067e35f789e34e", size = 222675, upload-time = "2026-01-09T19:04:51.452Z" },
+    { url = "https://files.pythonhosted.org/packages/f0/10/2b6581e4e197c5e4165e663f74e1a1f1f255029e7bfc1c4a728632447235/jupyterlab_language_pack_zh_cn-4.5.post2-py2.py3-none-any.whl", hash = "sha256:85b178914e9378e46fdf91d8c83f18f7f39f00c79c520d45c799a11b077272c0", size = 223645, upload-time = "2026-03-11T08:25:46.761Z" },
 ]
 
 [[package]]
