@@ -20,7 +20,7 @@ dependencies = [
     "ipympl>=0.8.2",
     "ipycanvas>=0.9.1",
     "ipyleaflet",
-    "plotly>=6,<7",
+    "plotly>=6.7.0,<7",
     "bqplot",
 ]
 
