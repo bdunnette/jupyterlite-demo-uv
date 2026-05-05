@@ -138,7 +138,7 @@ css = [
 
 [[package]]
 name = "bqplot"
-version = "0.12.45"
+version = "0.12.46"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "ipywidgets" },
@@ -147,9 +147,9 @@ dependencies = [
     { name = "traitlets" },
     { name = "traittypes" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a3/e0/727335c5ff8cee68d21a8c79f5b8406011639a76ecd7a6462a60aa8b0608/bqplot-0.12.45.tar.gz", hash = "sha256:ede00e9fdf7d92e43cc2d1b9691c7da176b6216fdd187c8e92f19d7beaca5e2a", size = 1205882, upload-time = "2025-05-21T17:32:29.143Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/dd/63/e63f6cec5f08aaecfd6420f84a261050d168ffe1a887fe82e4b1f8c35b66/bqplot-0.12.46.tar.gz", hash = "sha256:94174be3eb241c9fa1d697a54313289a0bd3fe880add96c6640d3163bdd3d22a", size = 1205847, upload-time = "2026-04-28T10:21:19.524Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/73/03/6b5370fc626e6f480c4a0b4cb25b3459d390745010618b21b4b573423a53/bqplot-0.12.45-py2.py3-none-any.whl", hash = "sha256:cf2e046adb401670902ab53a18d9f63540091279bc45c4ef281bfdadf6e7e92c", size = 1237450, upload-time = "2025-05-21T17:32:27.617Z" },
+    { url = "https://files.pythonhosted.org/packages/c3/49/a8d2bc745fe58f4db87202564379d10304f1fc3dff79a89a759c6fb9dbb2/bqplot-0.12.46-py2.py3-none-any.whl", hash = "sha256:39301c4fa92a85188ba1e50fc4d8977fa132ac562916b3427cdbd9e853337dcd", size = 1237522, upload-time = "2026-04-28T10:21:17.535Z" },
 ]
 
 [[package]]
