@@ -1002,7 +1002,7 @@ requires-dist = [
     { name = "jupyterlab-miami-nights" },
     { name = "jupyterlab-night" },
     { name = "jupyterlite-core", specifier = "~=0.8" },
-    { name = "jupyterlite-pyodide-kernel", specifier = "~=0.7" },
+    { name = "jupyterlite-pyodide-kernel", specifier = "~=0.8" },
     { name = "notebook", specifier = "~=7.6" },
     { name = "plotly", specifier = ">=6.8.0,<7" },
 ]
