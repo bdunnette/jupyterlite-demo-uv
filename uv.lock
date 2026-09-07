@@ -954,16 +954,16 @@ wheels = [
 
 [[package]]
 name = "jupyterlite-core"
-version = "0.8.0"
+version = "0.8.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "doit" },
     { name = "jupyter-core" },
     { name = "pycparser", marker = "platform_python_implementation == 'PyPy'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ef/cf/d615b769843dbedcde89f61e59e588d440937308ac9483225078c80438f1/jupyterlite_core-0.8.0.tar.gz", hash = "sha256:051dbb45d401336400a894d9eb8021968bf52645b23ce31a0dfc2914ebcb2faa", size = 15869315, upload-time = "2026-06-23T14:07:15.116Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/72/31/9b18a4cac1925ca9229c62a0a734554c91f8795b19dc6e2be18084334a56/jupyterlite_core-0.8.3.tar.gz", hash = "sha256:92735e2de4e1f67b411a218094d609b21350327d46454d89de84f113cd8440ae", size = 15791222, upload-time = "2026-08-20T14:27:29.986Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/39/2a/75c6d53cfb26136b099ddfea281bc5bc345084faf2968dea2baca820cae7/jupyterlite_core-0.8.0-py3-none-any.whl", hash = "sha256:81234b918bf93c15228b31edc87dac07c92b26bb13148826ced9144407b06daa", size = 15880902, upload-time = "2026-06-23T14:07:11.776Z" },
+    { url = "https://files.pythonhosted.org/packages/c8/f1/c527ec3191c1d4f3019c4fdf08697adfdbb4054e31b0282b559cf15d4aa4/jupyterlite_core-0.8.3-py3-none-any.whl", hash = "sha256:f61b1dc434368794850dfeb9089e91bc86a2741dd6966e061edb028c8112c2e3", size = 15803305, upload-time = "2026-08-20T14:27:26.402Z" },
 ]
 
 [[package]]
@@ -1009,15 +1009,15 @@ requires-dist = [
 
 [[package]]
 name = "jupyterlite-pyodide-kernel"
-version = "0.8.1"
+version = "0.8.5"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jupyterlite-core" },
     { name = "pkginfo" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/23/47/4a55d10ebce79db76da0490d11fa9a0f62fafb7ee90af94dd932744c069f/jupyterlite_pyodide_kernel-0.8.1.tar.gz", hash = "sha256:58c8c6f3f660f8fcb404afe8efc822145a96abffcbd10e6523978b0b3d95346a", size = 311555, upload-time = "2026-06-26T15:11:11.607Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e5/53/968cf7766ff1454ed3620d7fcddac9d954808e6fc94d575e9cdf3887b272/jupyterlite_pyodide_kernel-0.8.5.tar.gz", hash = "sha256:f9d5b411ae30c6be1be26994597a5b6f0cdf50bdd7bf303e2146bfd370a67ec7", size = 208968, upload-time = "2026-08-21T06:27:51.492Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1f/c1/1f2d36756df5a79e10de9d5fd5ba6d5917950a12f82c1a30420a9fb93fb6/jupyterlite_pyodide_kernel-0.8.1-py3-none-any.whl", hash = "sha256:8e3a8ad56d9e2d3d69452ba44409164fb7c92b8b8c62d7f21726ab1db89b1a14", size = 325260, upload-time = "2026-06-26T15:11:09.828Z" },
+    { url = "https://files.pythonhosted.org/packages/7c/8a/bbb03f742128df53b0aff54026918dc6ae7477aa2007e59bca7764f90c68/jupyterlite_pyodide_kernel-0.8.5-py3-none-any.whl", hash = "sha256:97b31147143f27ffd6d1b7fa46da5ec723c457f4a616ebcd7fd33f84117e7474", size = 222447, upload-time = "2026-08-21T06:27:49.206Z" },
 ]
 
 [[package]]
