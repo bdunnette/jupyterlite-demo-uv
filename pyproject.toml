@@ -11,7 +11,7 @@ dependencies = [
     "jupyterlab-geojson>=3.4.0,<4",
     "jupyterlab-night",
     "jupyterlab-miami-nights",
-    "ipywidgets>=8.1.3,<9",
+    "ipywidgets>=8.1.9,<9",
     "ipyevents>=2.0.1",
     "ipympl>=0.8.2",
     "ipycanvas>=0.9.1",
